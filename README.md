@@ -32,4 +32,4 @@ Eclipse
 
 ## ✒️ Autores
 
-* **Emanoel Sewaibryke** - *Trabalho Inicial* - `Lista de exercicios-etapa 1 `
+* **Emanoel Sewaibryke** - *Trabalho Inicial* - `Lista de exercicios-etapa 2 `
